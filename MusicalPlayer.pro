@@ -6,7 +6,8 @@ QT       += multimedia \
             widgets
 
 SOURCES += \
-    main.cpp
+    main.cpp \
+    player.cpp
 
 OTHER_FILES += \
     README.md

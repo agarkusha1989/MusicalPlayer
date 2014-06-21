@@ -17,8 +17,10 @@ public:
     Player(QWidget *parent = 0);
     ~Player();
 
-private slots:
-
+//private slots:
+private:
+    QMediaPlayer *player;
+    QMediaPlaylist *playlist;
 };
 
 #endif // PLAYER_H
