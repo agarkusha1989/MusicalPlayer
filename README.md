@@ -1,4 +1,4 @@
-Musican Player
+Musical Player
 ==============
 
 Qt based muscal player
